@@ -19,7 +19,12 @@ public void setup()
 public void draw() 
 {   
   
-  background(255);   
+  background(0, 213, 255);  
+  noStroke();
+  fill(167, 245, 66);
+  ellipse(400,700,1000,300);
+  fill(255, 217, 0);
+   ellipse(700,10,200,200);
   //stroke(107, 66, 25); 
   stroke(r, g, b); 
   strokeWeight(15);
