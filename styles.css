@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(200,200,200);
+    background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701591408.jpg");
     color: rgb(0,0,0);
     font-family: "Open Sans", sans-serif;
     text-align: center;
@@ -18,4 +18,10 @@ header {
 footer {
 	font-style: italic;
 	font-size: 90%;
+}
+
+footer:hover {
+	font-style: italic;
+	font-size: 90%;
+	color: purple;
 }
